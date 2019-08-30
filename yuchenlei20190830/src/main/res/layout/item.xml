@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >    <TextView
+    android:id="@+id/tv_title"
+    android:text="美国被特朗普坑惨了！又有3个铁杆盟友公开唱对台戏！"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content" />
+
+    <ImageView
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:src="@mipmap/dd"
+    android:id="@+id/iv_thumbnail_pic_s"
+    />
+
+</LinearLayout>
